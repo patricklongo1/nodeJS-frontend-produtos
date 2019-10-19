@@ -18,7 +18,9 @@ export default class Main extends Component{
     }
 
     prevPage = () => {}
-    nextPage = () => {}
+    nextPage = () => {
+        
+    }
 
     render(){
         const {products} = this.state
